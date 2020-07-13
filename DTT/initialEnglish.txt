@@ -1,0 +1,73 @@
+This data_type shows the data_subject from start_date to end_date.
+The data_type shows the data_subject from start_date to end_date.
+This data_type shows the data_subject between start_date and end_date.
+The data_type shows the data_subject between start_date and end_date.
+This data_type shows information about the data_subject from start_date to end_date.
+The data_type shows information about the data_subject from start_date to end_date.
+This data_type shows information about the data_subject between start_date and end_date.
+The data_type shows information about the data_subject between start_date and end_date.
+This data_type shows the data_subject for the years from start_date to end_date.
+The data_type shows the data_subject for the years from start_date to end_date.
+This data_type shows information about the data_subject for the years from start_date to end_date.
+The data_type shows information about the data_subject for the years from start_date to end_date.
+This data_type shows the data_subject for the years between start_date and end_date.
+The data_type shows the data_subject for the years between start_date and end_date.
+This data_type shows information about the data_subject for the years between start_date and end_date.
+The data_type shows information about the data_subject for the years between start_date and end_date.
+The data_type gives information about the data_subject from start_date to end_date.
+This data_type gives information about the data_subject from start_date to end_date.
+The data_type gives information about the data_subject between start_date and end_date.
+This data_type gives information about the data_subject between start_date and end_date.
+The data_type gives information about the data_subject for the years between start_date and end_date.
+This data_type gives information about the data_subject for the years from start_date to end_date.
+The data_type gives information on the data_subject from start_date to end_date.
+This data_type gives information on the data_subject from start_date to end_date.
+The data_type gives information on the data_subject between start_date and end_date.
+This data_type gives information on the data_subject between start_date and end_date.
+The data_type gives information on the data_subject for the years between start_date and end_date.
+This data_type gives information on the data_subject for the years between start_date and end_date.
+This data_type gives information on the data_subject for the years from start_date to end_date.
+The data_type gives information on the data_subject for the years from start_date to end_date.
+The data_type deals with the data_subject from start_date to end_date.
+This data_type deals with the data_subject from start_date to end_date.
+The data_type deals with the data_subject between start_date and end_date.
+This data_type deals with the data_subject between start_date and end_date.
+The data_type deals with the data_subject for the years from start_date to end_date.
+This data_type deals with the data_subject for the years from start_date to end_date.
+The data_type deals with the data_subject for the years between start_date and end_date.
+This data_type deals with the data_subject for the years between start_date and end_date.
+The data_type provides information about the data_subject from start_date to end_date.
+This data_type provides information about the data_subject from start_date to end_date.
+The data_type provides information about the data_subject between start_date and end_date.
+This data_type provides information about the data_subject between start_date and end_date.
+The data_type provides information about the data_subject for the years between start_date and end_date.
+This data_type provides information about the data_subject for the years from start_date to end_date.
+The data_type provides information on the data_subject from start_date to end_date.
+This data_type provides information on the data_subject from start_date to end_date.
+The data_type provides information on the data_subject between start_date and end_date.
+This data_type provides information on the data_subject between start_date and end_date.
+The data_type provides information on the data_subject for the years between start_date and end_date.
+This data_type provides information on the data_subject for the years between start_date and end_date.
+This data_type provides information on the data_subject for the years from start_date to end_date.
+The data_type provides information on the data_subject for the years from start_date to end_date.
+The data_type describes information about the data_subject from start_date to end_date.
+This data_type describes information about the data_subject from start_date to end_date.
+The data_type describes information about the data_subject between start_date and end_date.
+This data_type describes information about the data_subject between start_date and end_date.
+The data_type describes information about the data_subject for the years between start_date and end_date.
+This data_type describes information about the data_subject for the years from start_date to end_date.
+The data_type describes information on the data_subject from start_date to end_date.
+This data_type describes information on the data_subject from start_date to end_date.
+The data_type describes information on the data_subject between start_date and end_date.
+This data_type describes information on the data_subject between start_date and end_date.
+The data_type describes information on the data_subject for the years between start_date and end_date.
+This data_type describes information on the data_subject for the years between start_date and end_date.
+This data_type describes information on the data_subject for the years from start_date to end_date.
+The data_type describes information on the data_subject for the years from start_date to end_date.
+The data_type illustrates the data_subject from start_date to end_date.
+This data_type illustrates the data_subject from start_date to end_date.
+The data_type illustrates the data_subject between start_date and end_date.
+This data_type illustrates the data_subject between start_date and end_date.
+The data_type illustrates the data_subject for the years from start_date to end_date.
+This data_type illustrates the data_subject for the years from start_date to end_date.
+The data_type illustrates the data_subject for the years between start_date and end_date.
