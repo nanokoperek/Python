@@ -9,7 +9,7 @@ Created on Tue Nov 10 14:13:44 2020
 from lotto_src.Results import Results
 
 #Select a day: "Tuesday", "Thursday", "Saturday"
-day = "Tuesday"
+day = "Thursday"
 results = Results(day)
 predicted = results.predict_all()
 print(predicted)
